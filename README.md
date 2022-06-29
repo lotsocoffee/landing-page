@@ -2,7 +2,7 @@
 
 This is my first complete webpage, using HTML and CSS content on The Odin Project (TOP).
 
-As far as you can check this landing webpage has been made using a desktop with a 1903x1630px.
+As far as you can check this landing webpage has been made using a desktop with a 1903x1630px widescreen only.
 
 I did not use any of the responsive stuff yet to get the different devices messures and fit em in the page.
 
