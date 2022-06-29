@@ -4,9 +4,9 @@ This is my first complete webpage, using HTML and CSS content on The Odin Projec
 
 As far as you can check this landing webpage has been made using a desktop with a 1903x1630px widescreen only.
 
-I did not use any of the responsive stuff yet to get the different devices messures and fit em in the page.
+I did not use any of the responsive stuff yet to get the different devices measures and fit em in the page.
 
-Despite this, the TOP includes a responsive lesson as a part of the Odins path.
+Despite this, the TOP includes a responsive lesson as a part of the Odin's path which it will be taken.
 
 ## Contributing
 
